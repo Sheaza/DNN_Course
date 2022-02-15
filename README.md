@@ -1,2 +1,2 @@
-# ANN_Course
-Udemy ANN course for research project
+# DNN_Course
+Udemy DNN course for research project
